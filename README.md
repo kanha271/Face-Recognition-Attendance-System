@@ -2,7 +2,7 @@
 
 ## Overview
 
-A real-time face recognition attendance system developed using Python, OpenCV, TensorFlow, and InsightFace.
+A real-time face recognition attendance system developed using Python, OpenCV, TensorFlow, and Mediapipe.
 
 The system automatically:
 
