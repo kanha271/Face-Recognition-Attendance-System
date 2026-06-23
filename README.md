@@ -20,8 +20,7 @@ The system automatically:
 - Python
 - OpenCV
 - TensorFlow
-- InsightFace
-- ONNX Runtime
+- MediaPipe
 - SQLite
 - Tkinter
 
