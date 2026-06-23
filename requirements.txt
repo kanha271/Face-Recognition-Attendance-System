@@ -1,8 +1,9 @@
 opencv-python
+mediapipe
+tensorflow
+keras-facenet
 numpy
 pandas
-tensorflow
-insightface
-onnxruntime
 scikit-learn
 pillow
+matplotlib
